@@ -1,0 +1,11 @@
+html{background:rgb(255, 235, 204);color:black}
+body{font:normal medium 'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',Candara,serif;
+    padding:0;margin:0 auto;width:50em;line-height:1.75;word-spacing:0.1em
+    }
+h1,h2 {font-size:xx-large}/*Se cambio tamaño de letra*/
+h1, h2, h4 {letter-spacing:normal;text-align:center;margin:1}
+#header{background:brown;color:white;margin:1;padding:.75em 0}
+#footer {text-align:center;clear:both}
+.nota{float:both;font-size:medium;font-family: Impact; font-margin:1px 0 0 0}
+/*.nota_2{float:left;font-size:small;font-family: Impact; font-margin:1px 0 0 0}*/
+.sectionSign:before{content:'\00A7'}
